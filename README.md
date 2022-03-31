@@ -7,7 +7,7 @@ Jr. Flutter Developer, with B.Tech. in Computer Science and Engineering passiona
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: 
 
-[<img src="insta.png" width="30">](https://www.instagram.com/s.ankit1140/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="linkedin.png" width="30">](https://www.linkedin.com/in/ankit-singh-012929169/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="gmail.png" width="30">](mailto:s.ankit1140@gmail.com)
+      [<img src="insta.png" width="30">](https://www.instagram.com/s.ankit1140/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      [<img src="linkedin.png" width="30">](https://www.linkedin.com/in/ankit-singh-012929169/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      [<img src="gmail.png" width="30">](mailto:s.ankit1140@gmail.com)
 
