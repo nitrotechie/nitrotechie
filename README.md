@@ -16,6 +16,11 @@ Jr. Flutter Developer, with B.Tech. in Computer Science and Engineering passiona
 <a href= "https://github-readme-stats.vercel.app/api?username=nitrotechie&theme=tokyonight"> 
      <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=nitrotechie&theme=tokyonight", alt = "Ankit's GithHub Stats"/>
 </a>
-[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitrotechie&theme=tokyonight)](https://github.com/nitrotechie/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitrotechie&layout=compact&theme=tokyonight)](https://github.com/nitrotechie/github-readme-stats) [![Ankit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nitrotechie1140&range=last_7_days&theme=tokyonight)](https://github.com/nitrotechie/github-readme-stats)
+<a href= "https://github-readme-stats.vercel.app/api/top-langs/?username=nitrotechie&layout=compact&theme=tokyonight"> 
+     <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nitrotechie&layout=compact&theme=tokyonight", alt = "Top Languages"/>
+</a>
+<a href= "https://github-readme-stats.vercel.app/api/wakatime?username=nitrotechie1140&range=last_7_days&theme=tokyonight"> 
+     <img align = "center" src = "https://github-readme-stats.vercel.app/api/wakatime?username=nitrotechie1140&range=last_7_days&theme=tokyonight", alt = "Ankit's wakatime stats"/>
+</a>
 
 <hr>
