@@ -13,8 +13,6 @@ Jr. Flutter Developer, with B.Tech. in Computer Science and Engineering passiona
 
 <hr>
 
-<a href="https://github.com/nitrotechie/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-nitrotechie.vercel.app/api?username=nitrotechie&show_icons=true&count_private=true&theme=dark&include_all_commits=true", alt="Ankit's github stats" />
-</a>
+[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitrotechie)](https://github.com/nitrotechie/github-readme-stats)
 
 <hr>
