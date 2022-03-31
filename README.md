@@ -11,3 +11,10 @@ Jr. Flutter Developer, with B.Tech. in Computer Science and Engineering passiona
      [<img src="linkedin.png" width="30">](https://www.linkedin.com/in/ankit-singh-012929169/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      [<img src="gmail.png" width="30">](mailto:s.ankit1140@gmail.com)
 
+<hr>
+
+<a href="https://github.com/infinity-plus/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-nitrotechie.vercel.app/api?username=nitrotechie&show_icons=true&count_private=true&theme=dark&include_all_commits=true", alt="Ankit's github stats" />
+</a>
+
+<hr>
