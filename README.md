@@ -13,6 +13,6 @@ Jr. Flutter Developer, with B.Tech. in Computer Science and Engineering passiona
 
 <hr>
 
-[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitrotechie)](https://github.com/nitrotechie/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitrotechie&layout=compact)](https://github.com/nitrotechie/github-readme-stats) [![Ankit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nitrotechie1140)](https://github.com/nitrotechie/github-readme-stats)
+[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitrotechie)](https://github.com/nitrotechie/github-readme-stats)                  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitrotechie&layout=compact)](https://github.com/nitrotechie/github-readme-stats) [![Ankit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nitrotechie1140)](https://github.com/nitrotechie/github-readme-stats)
 
 <hr>
