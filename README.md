@@ -17,10 +17,18 @@ Jr. Flutter Developer, with B.Tech. in Computer Science and Engineering passiona
      <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=nitrotechie&theme=tokyonight", alt = "Ankit's GithHub Stats"/>
 </a>
 <br>
+
+
+
+
 <a href= "https://github-readme-stats.vercel.app/api/top-langs/?username=nitrotechie&layout=compact&theme=tokyonight"> 
      <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nitrotechie&layout=compact&theme=tokyonight", alt = "Top Languages"/>
 </a>
 <br>
+
+
+
+
 <a href= "https://github-readme-stats.vercel.app/api/wakatime?username=nitrotechie1140&range=last_7_days&theme=tokyonight"> 
      <img align = "center" src = "https://github-readme-stats.vercel.app/api/wakatime?username=nitrotechie1140&range=last_7_days&theme=tokyonight", alt = "Ankit's wakatime stats"/>
 </a>
